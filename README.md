@@ -4,3 +4,4 @@
 - Distancias
 - Euclediana
 - Hamming ( valore Discretos y Categoricos)
+- Manhattan 
