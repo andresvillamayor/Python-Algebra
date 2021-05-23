@@ -4,5 +4,7 @@
 ***
 - Distancias
 - Euclediana
-- Hamming ( valore Discretos y Categoricos)
+- Hamming ( valores Discretos y Categoricos)
 - Manhattan 
+- Minkowski - euclidean
+- Minkowski - manhattan
